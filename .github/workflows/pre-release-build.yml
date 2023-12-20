@@ -10,7 +10,6 @@ on:
 #      - "build.mjs"
 #    tags-ignore:
 #      - "v*"
-
 permissions:
   id-token: "write"
   contents: "write"
